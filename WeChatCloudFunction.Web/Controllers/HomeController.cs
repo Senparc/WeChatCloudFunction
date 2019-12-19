@@ -24,6 +24,10 @@ namespace WeChatCloudFunction.Web.Controllers
             return View();
         }
 
+        /// <summary>
+        /// 调用云函数接口
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Api()
         {
             var wxOpenSetting = Senparc.Weixin.Config.SenparcWeixinSetting.WxOpenSetting;
