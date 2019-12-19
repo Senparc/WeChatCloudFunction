@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/WeChatCloudFunction.Web/App_Data/SenparcTraceLog
+/WeChatCloudFunction.Web/bin/Debug/netcoreapp3.0
+/WeChatCloudFunction.Web/obj
