@@ -1,5 +1,7 @@
 # WeChatCloudFunction
-微信腾讯云云函数示例
+微信腾讯云云函数示例，基于 [Senparc.Weixin SDK](https://github.com/JeffreySu/WeiXinMPSDK)开发。
+
+主题：演示如何使用 10 行以内代码，完成微信小程序配置及云函数高级接口调用。
 
 结合文章：《如何在 C# 平台调用小程序云开发》
 
