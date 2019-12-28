@@ -14,4 +14,4 @@
 
 ## 详细操作教程
 
-请阅读：[如何在 C# 平台调用云开发？](https://mp.weixin.qq.com/s/jBA7cpNVvgs_qQ24R-M28Q)
+请阅读：[《如何在 C# 平台调用云开发？》](https://mp.weixin.qq.com/s/jBA7cpNVvgs_qQ24R-M28Q)
